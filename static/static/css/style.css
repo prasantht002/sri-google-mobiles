@@ -1,0 +1,15 @@
+.carousel-item img{
+    object-fit: cover;
+    object-position: top;
+    height: 60vh;
+    overflow: hidden;
+}
+.old-price{
+    color:red;
+    font-weight: bold;
+}
+.new-price{
+    font-weight: bold;
+    background-color: green;
+    color: white;
+}
